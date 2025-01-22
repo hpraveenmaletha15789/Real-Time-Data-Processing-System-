@@ -1,5 +1,4 @@
 ## Project Overview
-Vedio Recording  Link-https://youtu.be/t_FZq1K-hJ0
 
 This project aims to develop a real-time data processing system for monitoring weather conditions using data retrieved from the OpenWeatherMap API. The system provides summarized insights through rollups and aggregates, including daily weather summaries and alerting for specified weather conditions.
 
@@ -26,7 +25,7 @@ The weather data is sourced from the [OpenWeatherMap API](https://openweathermap
 
 ### Steps
 1. Clone this repository:
-   git clone https://github.com/PRANJALIMALETHA/Real-Time-Data-Processing-System-.git
+    git clone https://github.com/PRANJALIMALETHA/Real-Time-Data-Processing-System-.git
 
 Install dependencies:
 
