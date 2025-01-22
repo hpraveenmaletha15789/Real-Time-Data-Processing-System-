@@ -25,8 +25,7 @@ The weather data is sourced from the [OpenWeatherMap API](https://openweathermap
 
 ### Steps
 1. Clone this repository:
-    git clone https://github.com/PRANJALIMALETHA/Real-Time-Data-Processing-System-.git
-
+    git clone   https://github.com/hpraveenmaletha15789/Real-Time-Data-Processing-System-.git
 Install dependencies:
 
 
